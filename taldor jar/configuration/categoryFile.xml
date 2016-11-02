@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<Categories>
+    <Category>
+    <Name>Restaurant</Name>
+    <Color>brown</Color>
+  </Category>
+    <Category>
+    <Name>Academy</Name>
+    <Color>green</Color>
+  </Category>
+    <Category>
+    <Name>Shop</Name>
+    <Color>purple</Color>
+  </Category>
+    <Category>
+    <Name>Government</Name>
+    <Color>yellow</Color>
+  </Category>
+    <Category>
+    <Name>Culture</Name>
+    <Color>blue</Color>
+  </Category>
+    <Category>
+    <Name>Lodging</Name>
+    <Color>orange</Color>
+  </Category>
+    <Category>
+    <Name>Medicine</Name>
+    <Color>red</Color>
+  </Category>
+</Categories>

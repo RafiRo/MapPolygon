@@ -1,0 +1,618 @@
+[{
+		"markerPoint": {
+			"x": 32.063981,
+			"y": 34.786715
+		},
+		"markerInfo": {
+			"type": "Academy",
+			"name": "jon brice",
+			"address": {
+				"street": "homa umigdal",
+				"number": "29",
+				"city": "tel aviv"
+			},
+			"phone": "037100777"
+		}
+	}, {
+		"markerPoint": {
+			"x": 32.016253,
+			"y": 34.772831
+		},
+		"markerInfo": {
+			"type": "Academy",
+			"name": " hit",
+			"address": {
+				"street": "golob",
+				"number": "25",
+				"city": "holon"
+			},
+			"phone": "035026666"
+		}
+	}, {
+		"markerPoint": {
+			"x": 32.113067,
+			"y": 34.804434
+		},
+		"markerInfo": {
+			"type": "Academy",
+			"name": " tel aviv university",
+			"address": {
+				"street": "haim levanon",
+				"number": "55",
+				"city": "tel aviv"
+			},
+			"phone": "036997801"
+		}
+	}, {
+		"markerPoint": {
+			"x": 32.116474,
+			"y": 34.807307
+		},
+		"markerInfo": {
+			"type": "Academy",
+			"name": "open university",
+			"address": {
+				"street": "klauzner",
+				"number": "16",
+				"city": "tel aviv"
+			},
+			"phone": "097782222"
+		}
+	}, {
+		"markerPoint": {
+			"x": 32.104630,
+			"y": 34.798957
+		},
+		"markerInfo": {
+			"type": "Culture",
+			"name": "palmach musion",
+			"address": {
+				"street": "haim levanon",
+				"number": "10",
+				"city": "tel aviv"
+			},
+			"phone": "035459800"
+		}
+	}, {
+		"markerPoint": {
+			"x": 32.103151,
+			"y": 34.795477
+		},
+		"markerInfo": {
+			"type": "Culture",
+			"name": "israel musion",
+			"address": {
+				"street": "haim levanon",
+				"number": "2",
+				"city": "tel aviv"
+			},
+			"phone": "036415244"
+		}
+	}, {
+		"markerPoint": {
+			"x": 32.103182,
+			"y": 34.799580
+		},
+		"markerInfo": {
+			"type": "Culture",
+			"name": "itzhak rabin center",
+			"address": {
+				"street": "haim levanon",
+				"number": "8",
+				"city": "tel aviv"
+			},
+			"phone": "037453333"
+		}
+	}, {
+		"markerPoint": {
+			"x": 32.113719,
+			"y": 34.807417
+		},
+		"markerInfo": {
+			"type": "Culture",
+			"name": "beit hatfutzot",
+			"address": {
+				"street": "klauzner",
+				"number": "8",
+				"city": "tel aviv"
+			},
+			"phone": "037457808"
+		}
+	}, {
+		"markerPoint": {
+			"x": 32.107678,
+			"y": 34.802467
+		},
+		"markerInfo": {
+			"type": "Lodging",
+			"name": "Broshim hostel",
+			"address": {
+				"street": "Dr george wise",
+				"number": "20",
+				"city": "tel aviv"
+			},
+			"phone": "0545364860"
+		}
+	}, {
+		"markerPoint": {
+			"x": 32.107711,
+			"y": 34.801246
+		},
+		"markerInfo": {
+			"type": "Academy",
+			"name": "TAU avuda",
+			"address": {
+				"street": "haim levanon",
+				"number": "30",
+				"city": "tel aviv"
+			},
+			"phone": "036409737"
+		}
+	}, {
+		"markerPoint": {
+			"x": 32.105602,
+			"y": 34.801139
+		},
+		"markerInfo": {
+			"type": "Academy",
+			"name": "Ridman campus",
+			"address": {
+				"street": "haim levanon",
+				"number": "26",
+				"city": "tel aviv"
+			},
+			"phone": "5284"
+		}
+	}, {
+		"markerPoint": {
+			"x": 32.108056,
+			"y": 34.798425
+		},
+		"markerInfo": {
+			"type": "Culture",
+			"name": "House Brodetsky",
+			"address": {
+				"street": "Brodetsky",
+				"number": "36",
+				"city": "tel aviv"
+			},
+			"phone": "026202222"
+		}
+	}, {
+		"markerPoint": {
+			"x": 32.116914,
+			"y": 34.805901
+		},
+		"markerInfo": {
+			"type": "Academy",
+			"name": "TAU-Medicime faculty",
+			"address": {
+				"street": "kalchekin",
+				"number": "26",
+				"city": "tel aviv"
+			},
+			"phone": "036408111"
+		}
+	}, {
+		"markerPoint": {
+			"x": 32.103039,
+			"y": 34.794557
+		},
+		"markerInfo": {
+			"type": "Culture",
+			"name": "Tell qasile",
+			"address": {
+				"street": "haim levanon",
+				"number": "10",
+				"city": "tel aviv"
+			},
+			"phone": "000000000"
+		}
+	}, {
+		"markerPoint": {
+			"x": 32.127283,
+			"y": 34.804020
+		},
+		"markerInfo": {
+			"type": "Culture",
+			"name": "Community center rozin",
+			"address": {
+				"street": "yehiel dov drezner",
+				"number": "2",
+				"city": "tel aviv"
+			},
+			"phone": "036418262"
+		}
+	}, {
+		"markerPoint": {
+			"x": 32.123860,
+			"y": 34.807857
+		},
+		"markerInfo": {
+			"type": "Culture",
+			"name": "Beit halohem",
+			"address": {
+				"street": "meir neker",
+				"number": "6",
+				"city": "tel aviv"
+			},
+			"phone": "000000000"
+		}
+	}, {
+		"markerPoint": {
+			"x": 32.131868,
+			"y": 34.794004
+		},
+		"markerInfo": {
+			"type": "Academy",
+			"name": "seminar hakibutzim - art faculty",
+			"address": {
+				"street": "namir routh",
+				"number": "149",
+				"city": "tel aviv"
+			},
+			"phone": "036901200"
+		}
+	}, {
+		"markerPoint": {
+			"x": 32.104977,
+			"y": 34.787910
+		},
+		"markerInfo": {
+			"type": "Government",
+			"name": "Sde dov - airport",
+			"address": {
+				"street": "Levi Eshkol",
+				"number": "25",
+				"city": "tel aviv"
+			},
+			"phone": "036901200"
+		}
+	}, {
+		"markerPoint": {
+			"x": 32.072657,
+			"y": 34.79272
+		},
+		"markerInfo": {
+			"type": "Shop",
+			"name": "Azrieli mall",
+			"address": {
+				"street": "Derech Menachem Begin",
+				"number": "132",
+				"city": "tel aviv"
+			},
+			"phone": "036081199"
+		}
+	}, {
+		"markerPoint": {
+			"x": 32.07295,
+			"y": 34.789335
+		},
+		"markerInfo": {
+			"type": "Government",
+			"name": "Government Center",
+			"address": {
+				"street": "Derech Menachem Begin",
+				"number": "125",
+				"city": "tel aviv"
+			},
+			"phone": "3450"
+		}
+	}, {
+		"markerPoint": {
+			"x": 32.071454,
+			"y": 34.786969
+		},
+		"markerInfo": {
+			"type": "Shop",
+			"name": "Sarona Market",
+			"address": {
+				"street": "Kalman Magen",
+				"number": "3",
+				"city": "tel aviv"
+			},
+			"phone": "036242424"
+		}
+	}, {
+		"markerPoint": {
+			"x": 32.046519,
+			"y": 34.784667
+		},
+		"markerInfo": {
+			"type": "Institute",
+			"name": "Holts",
+			"address": {
+				"street": "Via Kibbutz Galuyot",
+				"number": "150",
+				"city": "tel aviv"
+			},
+			"phone": "036339543"
+		}
+	}, {
+		"markerPoint": {
+			"x": 32.047659,
+			"y": 34.761128
+		},
+		"markerInfo": {
+			"type": "Institute",
+			"name": "MTA College",
+			"address": {
+				"street": "Rabenu Yeruham",
+				"number": "2",
+				"city": "tel aviv"
+			},
+			"phone": "6086"
+		}
+	}, {
+		"markerPoint": {
+			"x": 32.054743,
+			"y": 34.754061
+		},
+		"markerInfo": {
+			"type": "Culture",
+			"name": "Theatre of Jaffa",
+			"address": {
+				"street": "Mifrats Shlomo Promenade",
+				"number": "10",
+				"city": "tel aviv"
+			},
+			"phone": "035185563"
+		}
+	}, {
+		"markerPoint": {
+			"x": 32.055847,
+			"y": 34.759369
+		},
+		"markerInfo": {
+			"type": "Culture",
+			"name": "Theatre Club",
+			"address": {
+				"street": "Yerushalaim Ave",
+				"number": "10",
+				"city": "tel aviv"
+			},
+			"phone": "035184715"
+		}
+	}, {
+		"markerPoint": {
+			"x": 32.059300,
+			"y": 34.758668
+		},
+		"markerInfo": {
+			"type": "Culture",
+			"name": "Etzel Museum",
+			"address": {
+				"street": "Nahom Golman",
+				"number": "2",
+				"city": "tel aviv"
+			},
+			"phone": "035177180"
+		}
+	}, {
+		"markerPoint": {
+			"x": 32.058576,
+			"y": 34.762138
+		},
+		"markerInfo": {
+			"type": "Shop",
+			"name": "HaTachana",
+			"address": {
+				"street": "Koifman pinat HaMered",
+				"number": "1",
+				"city": "tel aviv"
+			},
+			"phone": "000000000"
+		}
+	}, {
+		"markerPoint": {
+			"x": 32.060022,
+			"y": 34.762406
+		},
+		"markerInfo": {
+			"type": "Culture",
+			"name": "Israel Defense Forces History Museum",
+			"address": {
+				"street": "Yehezkel Kaufmann",
+				"number": "1",
+				"city": "tel aviv"
+			},
+			"phone": "035161346"
+		}
+	}, {
+		"markerPoint": {
+			"x": 32.056577,
+			"y": 34.769439
+		},
+		"markerInfo": {
+			"type": "Culture",
+			"name": "Lehi Museum Yair House",
+			"address": {
+				"street": "Cordovero",
+				"number": "1",
+				"city": "tel aviv"
+			},
+			"phone": "000000000"
+		}
+	}, {
+		"markerPoint": {
+			"x": 32.061541,
+			"y": 34.780708
+		},
+		"markerInfo": {
+			"type": "Culture",
+			"name": "Klifa Theatre",
+			"address": {
+				"street": "HaRakevet",
+				"number": "38",
+				"city": "tel aviv"
+			},
+			"phone": "036879219"
+		}
+	}, {
+		"markerPoint": {
+			"x": 31.910005,
+			"y": 34.809629
+		},
+		"markerInfo": {
+			"type": "Institute",
+			"name": "Weizmann Institute of Science",
+			"address": {
+				"street": "Herzl",
+				"number": "234",
+				"city": "Rehovot"
+			},
+			"phone": "089342111"
+		}
+	}, {
+		"markerPoint": {
+			"x": 32.099828,
+			"y": 34.786283
+		},
+		"markerInfo": {
+			"type": "Institute",
+			"name": "Center ERI ",
+			"address": {
+				"street": "Basel",
+				"number": "50",
+				"city": "Tel Aviv"
+			},
+			"phone": "0545399225"
+		}
+	}, {
+		"markerPoint": {
+			"x": 32.180063,
+			"y": 34.835722
+		},
+		"markerInfo": {
+			"type": "Institute",
+			"name": "Institute For Counter-Terrorism",
+			"address": {
+				"street": "Kanfi Nesharim",
+				"number": "1",
+				"city": "Herzliya"
+			},
+			"phone": "099527277"
+		}
+	}, {
+		"markerPoint": {
+			"x": 32.139373,
+			"y": 34.795896
+		},
+		"markerInfo": {
+			"type": "Institute",
+			"name": "The Mofet Institute",
+			"address": {
+				"street": "Shoshana Pershitz",
+				"number": "15",
+				"city": "Tel Aviv"
+			},
+			"phone": "036901406"
+		}
+	}, {
+		"markerPoint": {
+			"x": 32.086397,
+			"y": 34.853583
+		},
+		"markerInfo": {
+			"type": "Institute",
+			"name": "Worldwide Kabbalah Academy",
+			"address": {
+				"street": "HaBitahon ",
+				"number": "1",
+				"city": "Petah Tikva"
+			},
+			"phone": "1700509209"
+		}
+	}, {
+		"markerPoint": {
+			"x": 32.075360,
+			"y": 34.774622
+		},
+		"markerInfo": {
+			"type": "Shop",
+			"name": "Dizengoff Center",
+			"address": {
+				"street": "Dizengoff",
+				"number": "50",
+				"city": "tel aviv"
+			},
+			"phone": "036212400"
+		}
+	}, {
+		"markerPoint": {
+			"x": 32.082411,
+			"y": 34.780532
+		},
+		"markerInfo": {
+			"type": "Shop",
+			"name": "Gan Hair",
+			"address": {
+				"street": "Ibn Gabirol",
+				"number": "71",
+				"city": "tel aviv"
+			},
+			"phone": "035279111"
+		}
+	}, {
+		"markerPoint": {
+			"x": 32.112328,
+			"y": 34.795973
+		},
+		"markerInfo": {
+			"type": "Shop",
+			"name": "Ofer Moll",
+			"address": {
+				"street": "Einstein ",
+				"number": "40",
+				"city": "tel aviv"
+			},
+			"phone": "036426612"
+		}
+	}, {
+		"markerPoint": {
+			"x": 32.100974,
+			"y": 34.826615
+		},
+		"markerInfo": {
+			"type": "Shop",
+			"name": "Ayalon Mall",
+			"address": {
+				"street": "Aba Hillel ",
+				"number": "301",
+				"city": "Ramat Gan"
+			},
+			"phone": "035703105"
+		}
+	}, {
+		"markerPoint": {
+			"x": 32.063236,
+			"y": 34.771684
+		},
+		"markerInfo": {
+			"type": "Culture",
+			"name": "Camel Comedy Club",
+			"address": {
+				"street": "Nahalat Biniamin ",
+				"number": "52",
+				"city": "Tel Aviv-"
+			},
+			"phone": "036393434"
+		}
+	}, {
+		"markerPoint": {
+			"x": 32.050907,
+			"y": 34.772615
+		},
+		"markerInfo": {
+			"type": "Culture",
+			"name": "StendUp Factory",
+			"address": {
+				"street": "HaMerEts",
+				"number": "5",
+				"city": "Tel Aviv-"
+			},
+			"phone": "036762939"
+		}
+	}
+
+]
